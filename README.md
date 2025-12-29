@@ -28,13 +28,13 @@ This repository focuses **only on the ML and scientific computation layer** and 
 
 ## ML Pipeline Architecture
 - Satellite / Drone Images + Environmental Data
-- ↓
+  ↓
 - Stage 1: Area Estimation
-- ↓
+  ↓
 - Stage 2: Biomass Estimation
-- ↓
+  ↓
 - Stage 3: Growth Prediction
-- ↓
+  ↓
 - Stage 4: Carbon Credit Calculation
 
 
