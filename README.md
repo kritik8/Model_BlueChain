@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" width="120" />
-</p>
-
 <h1 align="center">BlueChain ML Engine</h1>
 
 <p align="center">
@@ -30,7 +26,7 @@ This repository focuses **only on the ML and scientific computation layer** and 
 
 ---
 
-## 🧠 ML Pipeline Architecture
+## ML Pipeline Architecture
 Satellite / Drone Images + Environmental Data
 ↓
 Stage 1: Area Estimation
