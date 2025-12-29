@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/ML-PyTorch-orange" />
   <img src="https://img.shields.io/badge/API-FastAPI-green" />
   <img src="https://img.shields.io/badge/Domain-Climate%20Tech-blue" />
-  <img src="https://img.shields.io/badge/Stage-Production--Ready-lightgrey" />
 </p>
 
 ---
